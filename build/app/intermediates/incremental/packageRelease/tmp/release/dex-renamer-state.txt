@@ -1,0 +1,4 @@
+#Fri Jan 31 22:32:18 CET 2020
+base.0=C\:\\Users\\Dijana\\Desktop\\projektApp\\know\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
